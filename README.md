@@ -1,38 +1,89 @@
-# hi, birthday boy! 🎂
 
-```txt
-Name: nishhh hehe
-Level: +1 🎉
-Status: Celebrating
-Favorite Person: (hopefully me)
+# 🎂 happy birthday.
+
+> *"a small project for one of my favorite people."*
+
+```yaml
+Project      : Birthday Surprise
+Author       : Jiya
+Recipient    : Nishhh
+Version      : +1 🎉
+Status       : Successfully Delivered
 ```
-
-## about you
-
-* kind
-* patient
-* somehow always knows how to make me laugh
-* always there when i need someone
-* makes ordinary days feel better
-
-## thank you
-
-thank you for putting up with me, even when i get too caught up doing random things on discord. i know i haven't always shown you how much i appreciate you, but i really do.
-
-## achievements unlocked
-
-* made me smile countless times ✅
-* survived my random moods ✅
-* became one of my favorite people ✅
-* still talking to me after all my mass incense obsession ✅
-
-## goals for this year
-
-* make more memories together
-* annoy each other a little more
-* laugh a lot
-* hopefully meet one day 🤍
 
 ---
 
-happy birthday. i hope today is as amazing as you are.
+## 📋 about you
+
+```diff
++ kind
++ patient
++ caring
++ always knows how to make me laugh
++ somehow makes ordinary days feel better
+```
+
+---
+
+## 🏆 achievements
+
+| Completed | Achievement |
+|:---------:|------------|
+| ✅ | made me smile countless times |
+| ✅ | became one of my favorite people |
+| ✅ | survived my random moods |
+| ✅ | still puts up with my mass incense obsession |
+
+---
+
+## 💬 a little note
+
+i know i've been a little too caught up with discord and mass incenses lately.
+
+looking back, i can understand why it might've seemed like i wasn't putting enough effort in or that i didn't care enough.
+
+i'm genuinely sorry for that.
+
+i never meant to make you feel that way, and i hope i can do a better job of showing you how much i appreciate you.
+
+thank you for being patient with me.
+
+---
+
+## 📌 goals
+
+- make more memories
+- laugh together more
+- annoy each other a little more
+- hopefully celebrate a birthday together someday
+- shine more pokemons hehe
+
+---
+
+```bash
+$ birthday.exe
+
+loading...
+
+██████████████████ 100%
+
+✔ cake
+✔ presents
+✔ good memories
+✔ one very appreciated person
+
+output:
+Happy Birthday! 🤍
+```
+
+---
+
+## 🤍 final message
+
+thank you for being you.
+
+you've made me happier than you probably realize, and i'm really grateful you're in my life.
+
+i hope today is filled with good food, lots of laughs, and everything that makes you happy.
+
+happy birthday. 🤍
