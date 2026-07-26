@@ -1,7 +1,7 @@
 # hi, birthday boy! 🎂
 
 ```txt
-Name: [His Name]
+Name: nishhh hehe
 Level: +1 🎉
 Status: Celebrating
 Favorite Person: (hopefully me)
