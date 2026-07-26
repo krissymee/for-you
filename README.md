@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.png" alt="Happy Birthday Nishanth" width="100%">
+</p>
 # 🎂 happy birthday.
 
 > *"a small project for one of my favorite people."*
