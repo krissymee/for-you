@@ -58,7 +58,7 @@ thank you for being patient with me.
 - laugh together more
 - annoy each other a little more
 - hopefully celebrate a birthday together someday
-- shine more pokemons hehe
+- shine more pokemons together hehe
 
 ---
 
